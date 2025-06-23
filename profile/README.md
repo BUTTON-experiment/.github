@@ -1,4 +1,5 @@
-# BUTTON (**B**oulby **U**nderground **T**echnical **T**estbed **O**bserving **N**eutrinos)
+# BUTTON:
+# **B**oulby **U**nderground **T**echnical **T**estbed **O**bserving **N**eutrinos
 
 This is the simulations and analyis repository hub for the BUTTON experiment.
 
